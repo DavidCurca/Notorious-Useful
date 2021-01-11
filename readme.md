@@ -10,7 +10,7 @@
 ## Instalation
 ``pip install pyautogui``  
 ``pip install keyboard``  
-clone the code in the documents directory of windows and name the folder "sarmale"
+clone the code in the documents directory of windows and name the folder "sarmale"  
 ``setx PATH "C:\Users\%userprofile%\Documents\sarmale"``
 ## How to run
 ``sarmale filename.nu``
