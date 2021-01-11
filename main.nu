@@ -1,4 +1,4 @@
-var.tel = 0711111889
+var.tel = 0000000000
 var.email = popescu@covoaregratis.ro
 var.parola = geani_morandi09
 var.adr1 = la tn in inima
