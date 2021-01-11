@@ -8,8 +8,8 @@
 * ##### Python 3
 * ##### C/C++
 ## Instalation
-``pip install pyautogui``
-``pip install keyboard``
+``pip install pyautogui``  
+``pip install keyboard``  
 clone the code in the documents directory of windows and name the folder "sarmale"
 ``setx PATH "C:\Users\%userprofile%\Documents\sarmale"``
 ## How to run
