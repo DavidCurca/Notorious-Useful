@@ -2,7 +2,7 @@
 > The saddest programming
 ## Overview
 This is a joke programming language  
-You cannot do anything else except order shaorma
+You cannot do anything else except order shaorma  
 THIS ONLY WORKS ON WINDOWS!
 ## Requirements
 * Python 3
@@ -21,6 +21,7 @@ Why not ;)
 Note:
  - **DO NOT TOUCH YOU KEYBOARD OR MOUSE WHILE IT IS RUNNING**
  - **YOU NEED TO NOT BE REGISTERD ON GLOVE BEFORE YOU ORDER**
+ - **DONT FORGET TO UPDATE THE MAIN FILE WITH YOUR INFORMATION**
  
 The program buys the shaorma from [glovo](https://glovoapp.com/)  
 It takes control of your keyboard ans mouse to go to the site,search shaorma,clicks on the first result,and then checkouts
